@@ -1,1 +1,1 @@
-wdwddwwd
+print("wdwd")
